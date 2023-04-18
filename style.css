@@ -7,7 +7,7 @@ body {
     padding: 0;
     /* background: linear-gradient(173deg, #fae7dc, #ffffff); */
     min-height: 100vh;
-    background-image: url('assets/bg-main-desktop.png');
+    background-image: url('bg-main-desktop.png');
     /* background-size: cover; */
     background-repeat: no-repeat;
     background-position-x: 70%;
@@ -95,7 +95,7 @@ body {
     align-items: center;
     justify-content: space-evenly;
     gap: 1em;
-    background-image: url(assets/bg-pattern-2.svg);
+    background-image: url(bg-pattern-2.svg);
     background-attachment: fixed;
     background-color: black;
     background-size: auto;
